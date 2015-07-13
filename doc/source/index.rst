@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DataAPIsamplePy's documentation!
-===========================================
+Welcome to AlgorithmicTradingApiPython's documentation!
+=======================================================
 
 *“An investment in knowledge always pays the best interest.”*
 Benjamin Franklin
 
 - Usage::
 
-    from indexstream import main
+    from bigdatatrade import trade
     key = "your_key_with_32_characters"
-    request = main.Request(key)
+    request = trade.Request(key)
     request.fetch("{'currencies': ['EUR/GBP', 'EUR/USD']}")
 
 Contents:
@@ -23,19 +23,19 @@ Contents:
 
 **The IndexStream module**
 
-.. automodule:: indexstream
+.. automodule:: bigdatatrade
     :members:
     :undoc-members:
     :inherited-members:
     :show-inheritance:
 
-    .. autoclass:: indexstream.order.Urlformat
+    .. autoclass:: bigdatatrade.trade.Urlformat
         :members:
         :undoc-members:
         :inherited-members:
         :show-inheritance:
 
-    .. autoclass:: indexstream.order.Request
+    .. autoclass:: bigdatatrade.trade.Request
         :members:
         :undoc-members:
         :inherited-members:

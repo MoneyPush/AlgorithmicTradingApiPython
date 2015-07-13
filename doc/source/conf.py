@@ -55,7 +55,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'DataAPIsamplePy'
+project = 'AlgorithmicTradingApiPython'
 copyright = '2015, Nacass Tommy'
 author = 'Nacass Tommy'
 

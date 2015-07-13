@@ -2,7 +2,7 @@
 
 BigDataTrade Financial market stream API in Python enables to access to real-time financial quotes. This repository shows how to get the data with a Python Client
 
-# Install Instructions
+## Install Instructions
 
 This package works with the most recent versions of python preferably python3.4
 
@@ -13,7 +13,7 @@ python setup.py install
 ```
 
 
-# Usage Instructions
+## Usage Instructions
 
 The key required is available in the personal informations of your account at    [http://www.bigdata-trade.com](http://www.bigdata-trade.com)
 

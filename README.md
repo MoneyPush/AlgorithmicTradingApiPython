@@ -2,22 +2,22 @@
 
 BigDataTrade Financial market stream API in Python enables to access to real-time financial quotes. This repository shows how to get the data with a Python Client
 
-# Install Instructions
+## Install Instructions
 
 This package works with the most recent versions of python preferably python3.4
 
 ```
-git clone [https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git][https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git]
+git clone https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git
 cd  AlgorithmicTradingApiPython 
 python setup.py install
 ```
 
 
-# Usage Instructions
+## Usage Instructions
 
-Check that your 3002 port is avalaible and opened.
+Check that your 3002 port is available and opened.
 
-The key required is available in the personal informations of your account at  [http://www.bigdata-trade.com/][http://www.bigdata-trade.com/]
+The key required is available in the personal informations of your account at    [http://www.bigdata-trade.com](http://www.bigdata-trade.com)
 
 ```python
     from bigdatatrade import trade

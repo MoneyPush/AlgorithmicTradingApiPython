@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='BigDataTradeAPI',
-      version='0.0.1',
+setup(name='BigDataTradeAPIPy',
+      version='0.0.2',
       description='BigDataTrade API in python',
-      url='https://github.com/bigdatatrade',
-      author='Nacass',
+      url='https://github.com/bigdatatrade/AlgorithmicTradingApiPython',
+      author='Nacass Tommy',
       author_email='tommy.nacass@gmail.com',
       license='MIT',
-      packages=['indexstream'],
+      packages=['bigdatatrade'],
       zip_safe=False)

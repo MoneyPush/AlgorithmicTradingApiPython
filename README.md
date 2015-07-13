@@ -7,7 +7,7 @@ BigDataTrade Financial market stream API in Python enables to access to real-tim
 This package works with the most recent versions of python preferably python3.4
 
 ```
-git clone [https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git][https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git]
+git clone https://github.com/BigDataTrade/AlgorithmicTradingApiPython.git
 cd  AlgorithmicTradingApiPython 
 python setup.py install
 ```
@@ -15,7 +15,7 @@ python setup.py install
 
 # Usage Instructions
 
-The key required is available in the personal informations of your account at  [http://www.bigdata-trade.com/#/][http://www.bigdata-trade.com/#/]
+The key required is available in the personal informations of your account at    [http://www.bigdata-trade.com](http://www.bigdata-trade.com)
 
 ```python
     from bigdatatrade import trade
